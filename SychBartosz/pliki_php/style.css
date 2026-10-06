@@ -1,0 +1,59 @@
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+}
+
+h2 {
+    margin-top: 30px;
+}
+
+p {
+    font-size: 16px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    background-color: white;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+form {
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    border: 1px solid black;
+}
+
+input {
+    padding: 8px;
+    width: 250px;
+}
+
+button {
+    padding: 8px 15px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+
+button:hover {
+    background-color: darkblue;
+}
